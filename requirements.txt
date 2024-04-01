@@ -1,0 +1,3 @@
+msticpy[mpsiem] @ git+https://github.com/aw350m33d/msticpy.git@positive_drivers
+jupyter
+python-dotenv
